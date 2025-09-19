@@ -110,7 +110,7 @@ class _BMIState extends State<BMI> {
                         msg = "You are over weight";
                       } else {
                         bgClr = Colors.green.shade200;
-                        msg = "You BMI is perfect";
+                        msg = "Your BMI is perfect";
                       }
                       wtControl.clear();
                       ftControl.clear();
