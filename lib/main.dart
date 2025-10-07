@@ -25,7 +25,7 @@ class _BMIState extends State<BMI> {
   var wtControl = TextEditingController();
   var ftControl = TextEditingController();
   var inControl = TextEditingController();
-  var result = "Your result will be visible here";
+  var result = "Your result will be displayed here";
   var bgClr = Color(0x9c82b2ff);
   var msg = "";
 
